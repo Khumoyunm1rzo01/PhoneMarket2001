@@ -1,3 +1,11 @@
+# Django>=4.2,<5.0
+# asgiref>=3.7
+# gunicorn
+# whitenoise
+# psycopg2-binary
+# pillow
+# requests
+
 Django>=4.2,<5.0
 asgiref>=3.7
 gunicorn
